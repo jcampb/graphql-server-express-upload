@@ -1,6 +1,6 @@
 {
   "name": "graphql-server-express-upload",
-  "version": "0.0.1"
+  "version": "0.0.1",
   "description": "GraphQL Server Express file upload middleware",
   "main": "src/index.js",
   "scripts": {
